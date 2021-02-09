@@ -7,6 +7,4 @@ describe('Probar Async/Await', () => {
             expect(data.results).toBeGreaterThan[0];
         });
     });
-
-    it('Ordenar de A-Z', )
 });
