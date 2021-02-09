@@ -13,16 +13,26 @@
     "deploy": "gh-pages -d src"
   },
   "dependencies": {
-    "@babel/core": "^7.6.2",
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
+    "@fortawesome/fontawesome-free": "^5.15.1",
     "babel-jest": "^26.6.1",
+    "cross-fetch": "^3.0.6",
     "eslint": "^7.12.1",
     "gh-pages": "^3.1.0",
     "htmlhint": "^0.14.1",
+<<<<<<< HEAD
+=======
+    "jest": "^26.6.1",
+    "node-fetch": "^2.6.1",
+>>>>>>> Valeria
     "opener": "^1.5.1",
     "serve": "^11.0.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "jest": "^26.6.3"
+=======
+    "@babel/core": "^7.12.13"
+>>>>>>> Valeria
   }
 }
